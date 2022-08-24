@@ -11,3 +11,4 @@ At the moment, I realize:
 - factory
 - abstract factory
 - adapter
+- bridge
