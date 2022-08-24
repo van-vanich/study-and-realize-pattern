@@ -10,3 +10,4 @@ At the moment, I realize:
 - builder
 - factory
 - abstract factory
+- adapter
