@@ -12,3 +12,5 @@ At the moment, I realize:
 - abstract factory
 - adapter
 - bridge
+- composite
+- decorator
