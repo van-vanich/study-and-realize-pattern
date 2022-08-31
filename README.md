@@ -15,3 +15,4 @@ At the moment, I realize:
 - composite
 - decorator
 - facade
+- flyweight
