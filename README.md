@@ -14,3 +14,4 @@ At the moment, I realize:
 - bridge
 - composite
 - decorator
+- facade

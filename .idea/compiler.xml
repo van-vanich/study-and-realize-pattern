@@ -12,10 +12,14 @@
         <module name="adapter" />
         <module name="composite" />
         <module name="builder" />
+        <module name="facade" />
         <module name="bridge" />
         <module name="prototype" />
         <module name="abstract-factory" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="untitled" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
