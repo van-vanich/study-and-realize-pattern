@@ -17,3 +17,4 @@ At the moment, I realize:
 - facade
 - flyweight
 - proxy
+- Chain of Responsibility
