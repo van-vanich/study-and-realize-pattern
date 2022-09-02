@@ -16,3 +16,4 @@ At the moment, I realize:
 - decorator
 - facade
 - flyweight
+- proxy
