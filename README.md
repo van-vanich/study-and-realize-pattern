@@ -19,3 +19,4 @@ At the moment, I realize:
 - proxy
 - Chain of Responsibility
 - command
+- iterator

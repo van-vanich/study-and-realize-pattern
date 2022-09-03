@@ -23,6 +23,7 @@
         <module>proxy</module>
         <module>CoR</module>
         <module>command</module>
+        <module>iterator</module>
     </modules>
 
     <properties>
