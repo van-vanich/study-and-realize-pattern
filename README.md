@@ -18,3 +18,4 @@ At the moment, I realize:
 - flyweight
 - proxy
 - Chain of Responsibility
+- command

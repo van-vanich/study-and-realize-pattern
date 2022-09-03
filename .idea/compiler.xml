@@ -14,6 +14,7 @@
         <module name="facade" />
         <module name="prototype" />
         <module name="flyweight" />
+        <module name="command" />
         <module name="abstract-factory" />
         <module name="proxy" />
         <module name="composite" />
