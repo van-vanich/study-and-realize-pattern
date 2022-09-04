@@ -20,3 +20,4 @@ At the moment, I realize:
 - Chain of Responsibility
 - command
 - iterator
+- controller

@@ -24,6 +24,7 @@
         <module>CoR</module>
         <module>command</module>
         <module>iterator</module>
+        <module>controller</module>
     </modules>
 
     <properties>

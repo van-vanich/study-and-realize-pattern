@@ -9,6 +9,7 @@
         <module name="singleton" />
         <module name="factory" />
         <module name="decorator" />
+        <module name="controller" />
         <module name="adapter" />
         <module name="CoR" />
         <module name="facade" />
