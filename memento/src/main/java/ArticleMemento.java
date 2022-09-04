@@ -4,7 +4,6 @@ public class ArticleMemento {
     private final String content;
 
     public ArticleMemento(int id, String title, String content) {
-        super();
         this.id = id;
         this.title = title;
         this.content = content;

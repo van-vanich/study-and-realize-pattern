@@ -5,7 +5,6 @@ public class SavingsAccount extends Component {
     private AccountStatement currentStmt;
 
     public SavingsAccount(String accountNo, float accountBalance) {
-        super();
         this.accountNo = accountNo;
         this.accountBalance = accountBalance;
     }

@@ -4,7 +4,6 @@ public class Article {
     private String content;
 
     public Article(int id, String title) {
-        super();
         this.id = id;
         this.title = title;
     }
