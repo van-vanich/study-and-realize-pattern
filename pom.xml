@@ -25,6 +25,7 @@
         <module>command</module>
         <module>iterator</module>
         <module>controller</module>
+        <module>memento</module>
     </modules>
 
     <properties>

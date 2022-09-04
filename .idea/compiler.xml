@@ -13,6 +13,7 @@
         <module name="adapter" />
         <module name="CoR" />
         <module name="facade" />
+        <module name="memento" />
         <module name="prototype" />
         <module name="flyweight" />
         <module name="command" />
