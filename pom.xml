@@ -26,6 +26,7 @@
         <module>iterator</module>
         <module>controller</module>
         <module>memento</module>
+        <module>observer</module>
     </modules>
 
     <properties>
