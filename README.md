@@ -22,3 +22,4 @@ At the moment, I realize:
 - iterator
 - controller(mediator)
 - memento
+- observer
