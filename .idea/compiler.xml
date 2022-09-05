@@ -24,6 +24,7 @@
         <module name="composite" />
         <module name="builder" />
         <module name="bridge" />
+        <module name="state" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

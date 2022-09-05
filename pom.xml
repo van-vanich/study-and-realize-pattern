@@ -27,6 +27,7 @@
         <module>controller</module>
         <module>memento</module>
         <module>observer</module>
+        <module>state</module>
     </modules>
 
     <properties>
