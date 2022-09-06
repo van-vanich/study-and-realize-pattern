@@ -24,3 +24,4 @@ At the moment, I realize:
 - memento
 - observer
 - state
+- strategy
