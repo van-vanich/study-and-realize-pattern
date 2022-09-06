@@ -25,3 +25,4 @@ At the moment, I realize:
 - observer
 - state
 - strategy
+- template method

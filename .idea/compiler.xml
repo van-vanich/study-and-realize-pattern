@@ -18,6 +18,7 @@
         <module name="flyweight" />
         <module name="command" />
         <module name="abstract-factory" />
+        <module name="templateMethod" />
         <module name="proxy" />
         <module name="observer" />
         <module name="iterator" />
