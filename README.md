@@ -4,26 +4,31 @@ For the study, I use these websites:
 - https://refactoring.guru/
 - https://howtodoinjava.com/gang-of-four-java-design-patterns/
 
-At the moment, I realize:
-- singleton
-- prototype
-- builder
-- factory
-- abstract factory
-- adapter
-- bridge
-- composite
-- decorator
-- facade
-- flyweight
-- proxy
-- Chain of Responsibility
-- command
-- iterator
-- controller(mediator)
-- memento
-- observer
-- state
-- strategy
-- template method
-- visitor
+I realize:
+- creational design patterns: 
+  - singleton
+  - prototype
+  - builder
+  - factory
+  - abstract factory
+ 
+- structural design patterns
+  - adapter
+  - bridge
+  - composite
+  - decorator
+  - facade
+  - flyweight
+  - proxy
+ 
+- behavioral design patterns
+  - Chain of Responsibility
+  - command
+  - iterator
+  - controller(mediator)
+  - memento
+  - observer
+  - state
+  - strategy
+  - template method
+  - visitor
