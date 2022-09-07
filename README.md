@@ -26,3 +26,4 @@ At the moment, I realize:
 - state
 - strategy
 - template method
+- visitor

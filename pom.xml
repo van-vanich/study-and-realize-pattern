@@ -30,6 +30,7 @@
         <module>state</module>
         <module>strategy</module>
         <module>templateMethod</module>
+        <module>visitor</module>
     </modules>
 
     <properties>
